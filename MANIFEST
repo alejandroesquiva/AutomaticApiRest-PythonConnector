@@ -2,3 +2,4 @@
 setup.cfg
 setup.py
 aarpy/AARConnector.py
+aarpy/__init__.py

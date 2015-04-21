@@ -1,4 +1,8 @@
-__author__ = 'Alejandro.Esquiva'
+__author__ = 'Alesandro.Esquiva'
+
+import urllib.request
+import urllib.parse
+import json
 
 class AARConnector:
     def __init__(self,**kwargs):

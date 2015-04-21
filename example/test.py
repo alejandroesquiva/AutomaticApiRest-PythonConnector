@@ -1,7 +1,6 @@
 __author__ = 'Alejandro Esquiva Rodriguez'
 
-from AARConnector import *
-
+from aarpy.AARConnector import AARConnector
 #AAR Instance
 
 ##Create instance via URL
